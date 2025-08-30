@@ -26,15 +26,21 @@ This campaign focussed on the High Seas, the areas beyond the Exclusive Economic
 
 It was also intended to bring attention to the industrial fishing practices that take place on the High Seas, with longline fishing being the worst culprit. These vessels can set lines that can stretch for up to 100kms, with hundreds of hooks along them. It is a fishing practice that is an indiscriminately destructive: although longline fishing produced just 11 per cent of the total catch in the WCPFC region in 2023, making it a distant second to purse seine fishing (67 per cent), nearly but a fraction of sharks caught in the region were caught by longliners. 
 
-<div align="center"><img width="687" height="385" alt="image" src="https://github.com/user-attachments/assets/71ad55bc-e863-45a3-99ba-68e2d5f3eea5"  /></div>
+<br><div align="center"><img width="687" height="385" alt="image" src="https://github.com/user-attachments/assets/71ad55bc-e863-45a3-99ba-68e2d5f3eea5"  /></div><br>
 
-The data for 2023 showed that the amount of Blue Shark caught in the WCPFC region had almost doubled since 2015, and it was on track to become the WCPFC's third-most-caught species. This is despite Blue Shark being a non-target species (bycatch), at least officially. Three countries were responsible for the vast majority of Blue Shark catches: Taiwan, Japan and Spain. For the former countries, this was a reflection of the scale of their fishing operations in the Pacific. Indeed, when categorising catches by both flag and species, Taiwanese-caught Blue Shark is the second most common type of catch. 
+Of these, one species stood out: the Blue Shark. It totalled almost 90 per cent of the region's shark catch. It is caught at such high numbers worldwide that, despite breeding polifically, it is on the cusp of becoming a threatened species.
 
-But for Spain, the data seemed to suggest that its longliners were delibertly targetting Blue Sharks, a species that, despite breeding polifically, is caught in such large numbers that is classified as being near-threatened. Spain's Pacific fleet consists of seven longliners, of which only three are permanently in the WCPFC region. Although targetting swordfish, Blue Shark made up 70 per cent of its catch in 2023, a record level. Historical data also shows that Portugese-flagged vessels caught high levels of shark when they operated in the region, further suggesting that vessels operating under the protection of the EU are aiming for bycatch rather than target species.<br><br>
+The WCPFC's Annual Catch Estimates data for 2023 showed that the region's Blue Shark catch had almost doubled since 2015 (as measured by weight, as in standard for this data). It was also on track to become the WCPFC's third-most-caught species, moving ahead of bigeye tuna in the next few years based on current trajectories. This is despite Blue Shark being, at least officially, a non-target species (bycatch) under the WCPFC Convention. 
+
+Three countries were responsible for the vast majority of Blue Shark catches: Taiwan, Japan and Spain. For the former fleets, this was a reflection of the scale of their fishing operations in the Pacific. Indeed, when categorising catches by both flag and species, Taiwanese-caught Blue Shark is the second most common type of catch. 
+
+But for Spain, the data seemed to suggest that its longliners were deliberatly targetting Blue Sharks. Spain's Pacific fleet consists of just seven longliners, and only three are permanently in the WCPFC region. But these are shark-killing machines, accouning for more than one in every 10 shark catches. Although targetting swordfish, Blue Shark made up 70 per cent of their catch in 2023, a record level. 
 
 ![Screenshot 2025-08-30 123448](https://github.com/user-attachments/assets/f3395ada-5b00-4f3f-8e1d-0522818a46fe)
 
-The Taiwanese, Japanese and Spanish fleets were also the only ones for whom Blue Shark totalled more than 20 per cent of their total haul (measured by weight, as in standard for the WCPFC's Annual Catch Estimates data). But only Spain has a Blue Shark catch that goes beyond 50 per cent, which it does by some margin. So much that it eclipsed the combined catch of all tuna species by Australian vessels in the WCPFC region.
+Historical data also shows that Portugese-flagged vessels caught high levels of shark when they operated in the region, further suggesting that vessels operating under the protection of the EU are aiming for bycatch rather than target species.<br><br>
+
+The Taiwanese, Japanese and Spanish fleets were also the only ones for whom Blue Shark totalled more than 20 per cent of their total haul. But only Spain has a Blue Shark catch that goes beyond 50 per cent, which it does by some margin. So much that it eclipsed the combined catch of all tuna species by Australian vessels in the WCPFC region.
 
 ![Screenshot 2025-08-30 123046](https://github.com/user-attachments/assets/63716f90-54e8-403f-ade5-5666216139d0)
 
