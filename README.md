@@ -12,7 +12,7 @@ Backing this desktop analysis with in-field observational data from the high sea
 
 ![Greenpeace-Australia-scaled](https://github.com/user-attachments/assets/dfb58111-e9d6-4898-80da-9ee8ff050a00)
 
-<b><i>Clients, partners and results</i></b>
+### Clients, partners and results
 
 For <b>Greenpeace Australia Pacific</b> and <b>Greenpeace International</b>, this work was part of a global campaign to develop international law through the ratification of the Global Oceans Treaty (BBNJ Agreement), and was foundational to the narrative of the South Pacific leg of this campaign, which was undertaken onboard the Rainbow Warrior in May-June 2025. 
 
@@ -20,11 +20,11 @@ The research was provided exclusively to <b>The Sydney Morning Herald</b> and <b
 
 
 ### Methodology
-This campaign focussed on the High Seas, the areas beyond the Exclusive Economic Zones which surround countryies for up to 200 nautical miles. While often regarded as some of the most lawless places on Earth, fishing of migratory species like tuna and billfish and associated bycatch like sharks is governed by regional fisheries management organisations (RFMOS). The Western and Central Pacific Fisheries Commission is one of these organisations, and it makes a large amount of recent and historical data available to the public, albeit in ways that are not always neatly organised or well labelled. 
+This campaign focussed on the High Seas, the areas beyond the Exclusive Economic Zones that surround countries. While often regarded as some of the most lawless places on Earth, fishing of migratory species like tuna and billfish and associated bycatch like sharks is governed by regional fisheries management organisations (RFMOS). The Western and Central Pacific Fisheries Commission is one of these organisations, and it makes a large amount of recent and historical data available to the public, albeit in ways that are not always neatly organised or well labelled. 
 
-<i>Making sense of the data</i>
+<br><i>Finding the narrative in the data</i>
 
-This campaign was focussed specifically on longline fishing. These vessels can set hundreds of hooks per day, along lines that can stretch for up to 100kms. It is an industrial fishing practice that is an indiscriminately destructive: although longline fishing produced just 11 per cent of the total catch in the WCPFC region, making it a distant second to purse seine fishing (67 per cent), nearly all of the sharks caught in the region are caught by longliners. 
+It was also intended to bring attention to the industrial fishing practices that take place on the High Seas, with longline fishing being the worst culprit. These vessels can set lines that can stretch for up to 100kms, with hundreds of hooks along them. It is a fishing practice that is an indiscriminately destructive: although longline fishing produced just 11 per cent of the total catch in the WCPFC region in 2023, making it a distant second to purse seine fishing (67 per cent), nearly all of the sharks caught in the region were caught by longliners. 
 
 <div align="center"><img width="687" height="385" alt="image" src="https://github.com/user-attachments/assets/71ad55bc-e863-45a3-99ba-68e2d5f3eea5"  /></div>
 
