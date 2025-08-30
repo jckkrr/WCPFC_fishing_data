@@ -24,7 +24,7 @@ This campaign focussed on the High Seas, the areas beyond the Exclusive Economic
 
 <br><i>Finding the narrative in the data</i>
 
-It was also intended to bring attention to the industrial fishing practices that take place on the High Seas, with longline fishing being the worst culprit. These vessels can set lines that can stretch for up to 100kms, with hundreds of hooks along them. It is a fishing practice that is an indiscriminately destructive: although longline fishing produced just 11 per cent of the total catch in the WCPFC region in 2023, making it a distant second to purse seine fishing (67 per cent), nearly all of the sharks caught in the region were caught by longliners. 
+It was also intended to bring attention to the industrial fishing practices that take place on the High Seas, with longline fishing being the worst culprit. These vessels can set lines that can stretch for up to 100kms, with hundreds of hooks along them. It is a fishing practice that is an indiscriminately destructive: although longline fishing produced just 11 per cent of the total catch in the WCPFC region in 2023, making it a distant second to purse seine fishing (67 per cent), nearly but a fraction of sharks caught in the region were caught by longliners. 
 
 <div align="center"><img width="687" height="385" alt="image" src="https://github.com/user-attachments/assets/71ad55bc-e863-45a3-99ba-68e2d5f3eea5"  /></div>
 
