@@ -18,7 +18,6 @@ For <b>Greenpeace Australia Pacific</b> and <b>Greenpeace International</b>, thi
 
 The research was provided exclusively to <b>The Sydney Morning Herald</b> and <b>The Age</b>, where it featured prominently on the home page of the newspapers. This produced significant political momentum, with the new Environment Minister making the Global Ocean Treaty a priority. It also led to a surge in activity from Greenpeace’s members and donors. It was subdequently run in <b>The New York Post</b>, <b>The Guardian</b> and outlets in Spain.
 
-
 ### Methodology
 This campaign focussed on the High Seas, the areas beyond the Exclusive Economic Zones that surround countries. While often regarded as some of the most lawless places on Earth, fishing of migratory species like tuna and billfish and associated bycatch like sharks is governed by regional fisheries management organisations (RFMOS). The Western and Central Pacific Fisheries Commission is one of these organisations, and it makes a large amount of recent and historical data available to the public, albeit in ways that are not always neatly organised or well labelled. 
 
@@ -38,7 +37,7 @@ But for Spain, the data seemed to suggest that its longliners were deliberatly t
 
 ![Screenshot 2025-08-30 123448](https://github.com/user-attachments/assets/f3395ada-5b00-4f3f-8e1d-0522818a46fe)
 
-Historical data also shows that Portugese-flagged vessels caught high levels of shark when they operated in the region, further suggesting that vessels operating under the protection of the EU are aiming for bycatch rather than target species.<br><br>
+Historical data also shows that Portugese-flagged vessels caught high levels of shark when they operated in the region, further suggesting that vessels operating under the protection of the EU are aiming for bycatch rather than target species.
 
 The Taiwanese, Japanese and Spanish fleets were also the only ones for whom Blue Shark totalled more than 20 per cent of their total haul. But only Spain has a Blue Shark catch that goes beyond 50 per cent, which it does by some margin. So much that it eclipsed the combined catch of all tuna species by Australian vessels in the WCPFC region.
 
@@ -46,6 +45,8 @@ The Taiwanese, Japanese and Spanish fleets were also the only ones for whom Blue
 
 
 <i>Investigating on the high seas</i>
+
+** lookin g at the more specific data provided by the EU, we could also see which vessels were catching the most *** 
 
 
 - global fishing watch data
