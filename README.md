@@ -1,8 +1,7 @@
-# Sharks are being killed at record levels in the Pacific
+<img width="1516" height="602" alt="image" src="https://github.com/user-attachments/assets/28129ac3-9295-419e-b3ac-82792d98a865" />
 
-![Screenshot 2025-08-30 123218](https://github.com/user-attachments/assets/98c89490-b3ed-40ef-8ea2-72bf6426c553)
-
-Year: <b>2025</b><br>Clients/Partners: <b>Greenpeace | The Sydney Morning Herald</b>
+# Sharks being caught by longliners at record levels in the Pacific
+Greenpeace; Sydney Morning Herald | 2025 | Tags: <b>oceans; biodiversity; vessel tracking; investigative data</b><br>
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
@@ -15,6 +14,11 @@ Year: <b>2025</b><br>Clients/Partners: <b>Greenpeace | The Sydney Morning Herald
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+![Greenpeace-Australia-scaled](https://github.com/user-attachments/assets/dfb58111-e9d6-4898-80da-9ee8ff050a00)
+![be77e860-a14i2398-1536x1083](https://github.com/user-attachments/assets/abc2c43b-60f4-47a9-b866-7415c894d825)
+
+![437f1298-gp0su5o2h_medium-res-1200px](https://github.com/user-attachments/assets/87e0f68f-f935-4cd1-8690-af248a27fac8)
 
 ### Methodology
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
