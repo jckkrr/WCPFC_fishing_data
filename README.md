@@ -50,9 +50,9 @@ The Taiwanese, Japanese and Spanish fleets were also the only ones for whom Blue
 
 <i>Investigating on the high seas</i>
 
-<img width="1553" height="1039" alt="image" src="https://github.com/user-attachments/assets/88da7ad2-50d1-4935-a0b2-6a2aa935f69e" />
+<img width="1835" height="985" alt="image" src="https://github.com/user-attachments/assets/c9cbea4a-3698-4cf1-be61-e6defed42b1f" />
 
-** lookin g at the more specific data provided by the EU, we could also see which vessels were catching the most *** 
+** looking at the more specific data provided by the EU, we could also see which vessels were catching the most *** 
 
 
 - global fishing watch data
@@ -73,5 +73,6 @@ The Taiwanese, Japanese and Spanish fleets were also the only ones for whom Blue
 ![437f1298-gp0su5o2h_medium-res-1200px](https://github.com/user-attachments/assets/87e0f68f-f935-4cd1-8690-af248a27fac8)
 
 ![be77e860-a14i2398-1536x1083](https://github.com/user-attachments/assets/abc2c43b-60f4-47a9-b866-7415c894d825)
+<img width="1817" height="713" alt="image" src="https://github.com/user-attachments/assets/9e861bf5-f906-4a67-893f-faaadb096948" />
 
 
