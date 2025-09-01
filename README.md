@@ -47,20 +47,21 @@ The Taiwanese, Japanese and Spanish fleets were also the only ones for whom Blue
 
 ![Screenshot 2025-08-30 123046](https://github.com/user-attachments/assets/63716f90-54e8-403f-ade5-5666216139d0)
 
-<img width="1304" height="784" alt="image" src="https://github.com/user-attachments/assets/8547accb-6409-4c7f-bc41-0bdda9a30269" />
+<i>Exploring the Spanish fleet</i>
 
-<i>Investigating on the high seas</i>
+Signatories to the WCPFC convention typically provide annual reports to the Commission, in which they provide more details on their catches. For the EU, this included details of the zones (as defined by the United Nations Food and Agriculture Organization) in which species were caught. 
+
+<img width="1318" height="760" alt="image" src="https://github.com/user-attachments/assets/a4baea12-1200-4d18-a9ca-56c15ba80cb7" />
+<br><br>
+The EU's report also included details of the individual longerliners operating in the region, and their hauls by spicies and zones. This helped us to get a clearer picture of their activity. For example, it showed that disproportionate bycatch was not restricted to rogue vessels, but was consistent across the EU fleet. It also showed the size of the hauls, which are roughly consistent with their storage capacity, as can be seen in shipping registration records. Furthermore, it showed that, for one vessel, almost 90 per cent of its catch was shark species, including the fleet's second highest proportion of catches of the endangered Short-Finned Mako.<br><br> 
+
+<img width="1300" height="778" alt="image" src="https://github.com/user-attachments/assets/3f292c5f-33bc-4f0e-beb5-da6e7918eceb" />
+
+This was particulary significant because our analysis of historical data from Marine Traffic showed that vessel was one of the EU fleet's most active in the region where our campaign was focussed. 
+
+We could also see from this tracking data that the vessel operated in particular patch of the Tasman Sea, just beyond the borders of the New Zealand Exclusive Economic Zone. Indeed, analysis of fishing data for 2024 from Global Fishing Watch showed that there was an unoffical demarcation of the High Seas area between Australia and New Zealand, with certain areas used almost exclusively by fleets operating under particualr flags. The Japanese, coloured blue in the below map, tended to operate in the far north and south of that region. Taiwan (green) tended to stay in the middle. Spain is shown in pink. China had no presence in the region in 2024, but was very active in the South Fiji Basin, and in other years has operated in the High Seas between Lord Howe Island, Norfolk Island and New Caledonia.
 
 <img width="1835" height="985" alt="image" src="https://github.com/user-attachments/assets/c9cbea4a-3698-4cf1-be61-e6defed42b1f" />
-
-** looking at the more specific data provided by the EU, we could also see which vessels were catching the most *** 
-
-
-- global fishing watch data
-- marine traffic data
-- makos
-
-
 
 
 ## Other visualisations
@@ -68,12 +69,6 @@ The Taiwanese, Japanese and Spanish fleets were also the only ones for whom Blue
 ![Screenshot 2025-08-30 123029](https://github.com/user-attachments/assets/a2703bfd-f75c-4f1b-ae00-21e267a6845a)
 ![Screenshot 2025-08-30 122916](https://github.com/user-attachments/assets/96a5a907-3bbe-4b74-8016-e22e5e3c472d)
 ![Screenshot 2025-08-30 123934](https://github.com/user-attachments/assets/87a52f09-87ff-436d-b20e-c88965d28ad6)
-<img width="1858" height="815" alt="image" src="https://github.com/user-attachments/assets/093026c9-130f-4990-916f-630abfaf9a66" />
-![Greenpeace-Australia-scaled](https://github.com/user-attachments/assets/dfb58111-e9d6-4898-80da-9ee8ff050a00)
-
-![437f1298-gp0su5o2h_medium-res-1200px](https://github.com/user-attachments/assets/87e0f68f-f935-4cd1-8690-af248a27fac8)
-
-![be77e860-a14i2398-1536x1083](https://github.com/user-attachments/assets/abc2c43b-60f4-47a9-b866-7415c894d825)
 <img width="1817" height="713" alt="image" src="https://github.com/user-attachments/assets/9e861bf5-f906-4a67-893f-faaadb096948" />
 
 
