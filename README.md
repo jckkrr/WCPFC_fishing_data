@@ -63,6 +63,21 @@ We could also see from this tracking data that the vessel operated in particular
 
 <img width="1835" height="985" alt="image" src="https://github.com/user-attachments/assets/c9cbea4a-3698-4cf1-be61-e6defed42b1f" />
 
+We could also use data from Marine Traffic, Global Fishing Watch and simialr services to get a better understanding of the moverments of these vessels.
+
+
+<img width="1413" height="677" alt="unnamed" src="https://github.com/user-attachments/assets/f6bcc393-d94b-4a9f-85ce-2b29b75b280a" />
+<img width="1413" height="677" alt="unnamed" src="https://github.com/user-attachments/assets/e696ce82-48ab-4c13-bc4d-8eee16f1702e" />
+![unnamed](https://github.com/user-attachments/assets/752a03b2-63ca-4146-baa9-bb2af5e78629)
+
+!!!!!
+
+<img width="1413" height="677" alt="unnamed" src="https://github.com/user-attachments/assets/83184ae8-63eb-4ee4-ba5a-90d82fa6f585" />
+
+<i>Bycatch data</i>
+
+![unnamed](https://github.com/user-attachments/assets/1e03937d-8bf5-4a5f-8954-b2965f92633a)
+
 
 ## Other visualisations
 ![Screenshot 2025-08-30 123852](https://github.com/user-attachments/assets/445e2bed-8653-45a9-ae8b-85eef470cb58)
@@ -70,5 +85,6 @@ We could also see from this tracking data that the vessel operated in particular
 ![Screenshot 2025-08-30 122916](https://github.com/user-attachments/assets/96a5a907-3bbe-4b74-8016-e22e5e3c472d)
 ![Screenshot 2025-08-30 123934](https://github.com/user-attachments/assets/87a52f09-87ff-436d-b20e-c88965d28ad6)
 <img width="1817" height="713" alt="image" src="https://github.com/user-attachments/assets/9e861bf5-f906-4a67-893f-faaadb096948" />
+<img width="1130" height="834" alt="unnamed" src="https://github.com/user-attachments/assets/049a7542-1183-4b95-933f-1eb3113141b3" />
 
 
