@@ -61,24 +61,21 @@ This was particulary significant because our analysis of historical data from Ma
 
 We could also see from this tracking data that the vessel operated in particular patch of the Tasman Sea, just beyond the borders of the New Zealand Exclusive Economic Zone. Indeed, analysis of fishing data for 2024 from Global Fishing Watch showed that there was an unoffical demarcation of the High Seas area between Australia and New Zealand, with certain areas used almost exclusively by fleets operating under particualr flags. The Japanese, coloured blue in the below map, tended to operate in the far north and south of that region. Taiwan (green) tended to stay in the middle. Spain is shown in pink. China had no presence in the region in 2024, but was very active in the South Fiji Basin, and in other years has operated in the High Seas between Lord Howe Island, Norfolk Island and New Caledonia.
 
-<img width="1835" height="985" alt="image" src="https://github.com/user-attachments/assets/c9cbea4a-3698-4cf1-be61-e6defed42b1f" />
+<img width="1835" height="985" alt="image" src="https://github.com/user-attachments/assets/c9cbea4a-3698-4cf1-be61-e6defed42b1f" /><br>
 
-We could also use data from Marine Traffic, Global Fishing Watch and simialr services to get a better understanding of the moverments of these vessels.
+We could also use data from Marine Traffic, Global Fishing Watch and simialr services to get a better understanding of the moverments of these vessels. This allowed us to estimate the length of the longlines it was using, and the periods of the day a vessel was setting and collecting its lines.<br><br>
+<img width="1643" height="497" alt="unnamed" src="https://github.com/user-attachments/assets/16faa724-ca6e-4aa3-b9aa-afe067c08445" /><br><br>
+<img width="1851" height="531" alt="image" src="https://github.com/user-attachments/assets/435ef064-032c-4d96-aa94-4159106db395" /><br><br>
 
-
-<img width="1413" height="677" alt="unnamed" src="https://github.com/user-attachments/assets/f6bcc393-d94b-4a9f-85ce-2b29b75b280a" />
-<img width="1413" height="677" alt="unnamed" src="https://github.com/user-attachments/assets/e696ce82-48ab-4c13-bc4d-8eee16f1702e" />
-![unnamed](https://github.com/user-attachments/assets/752a03b2-63ca-4146-baa9-bb2af5e78629)
-
-!!!!!
-
-<img width="1413" height="677" alt="unnamed" src="https://github.com/user-attachments/assets/83184ae8-63eb-4ee4-ba5a-90d82fa6f585" />
-
+<br><br>
 <i>Bycatch data</i>
+<br>
 
-![unnamed](https://github.com/user-attachments/assets/1e03937d-8bf5-4a5f-8954-b2965f92633a)
+The WCPFC almost makes bycatch data available. This data is severely disadvantaged by the relaitve scarcity of data it contains: the data is collected by independent observers that occassionally travel on these vessels. Therefore, the numbers in this data are a fraction of those found in the Annual Catch Estimates data. However, the data is more granular when it comes to location of catches (based on 5x5 coordiante grids), and it also includes non-fish species (such as birds and turtles). This allowed us to see that the Tasman Sea is a hotspot for sea birds being caught by longliners. (Sea birds are caught on the hooks when they dive into water to catch a fish, and instead take the bait.) 
 
+<br><div align="center"><img width="687" alt="image" src="https://github.com/user-attachments/assets/1e03937d-8bf5-4a5f-8954-b2965f92633a"  /></div><br>
 
+<br><br><br><br>
 ## Other visualisations
 ![Screenshot 2025-08-30 123852](https://github.com/user-attachments/assets/445e2bed-8653-45a9-ae8b-85eef470cb58)
 ![Screenshot 2025-08-30 123029](https://github.com/user-attachments/assets/a2703bfd-f75c-4f1b-ae00-21e267a6845a)
