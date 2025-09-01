@@ -47,6 +47,7 @@ The Taiwanese, Japanese and Spanish fleets were also the only ones for whom Blue
 
 ![Screenshot 2025-08-30 123046](https://github.com/user-attachments/assets/63716f90-54e8-403f-ade5-5666216139d0)
 
+<img width="1304" height="784" alt="image" src="https://github.com/user-attachments/assets/8547accb-6409-4c7f-bc41-0bdda9a30269" />
 
 <i>Investigating on the high seas</i>
 
