@@ -54,8 +54,8 @@ Signatories to the WCPFC convention typically provide annual reports to the Comm
 <img width="1318" height="760" alt="image" src="https://github.com/user-attachments/assets/a4baea12-1200-4d18-a9ca-56c15ba80cb7" />
 <br><br>
 The EU's report also included details of the individual longerliners operating in the region, and their hauls by spicies and zones. This helped us to get a clearer picture of their activity. For example, it showed that disproportionate bycatch was not restricted to rogue vessels, but was consistent across the EU fleet. It also showed the size of the hauls, which are roughly consistent with their storage capacity, as can be seen in shipping registration records. Furthermore, it showed that, for one vessel, almost 90 per cent of its catch was shark species, including the fleet's second highest proportion of catches of the endangered Short-Finned Mako.<br><br> 
-
-<img width="1300" height="778" alt="image" src="https://github.com/user-attachments/assets/3f292c5f-33bc-4f0e-beb5-da6e7918eceb" />
+ 
+<img width="1313" height="786" alt="image" src="https://github.com/user-attachments/assets/5465caf7-505a-435f-99a5-87859c30b472" />
 
 This was particulary significant because our analysis of historical data from Marine Traffic showed that vessel was one of the EU fleet's most active in the region where our campaign was focussed. 
 
@@ -63,7 +63,7 @@ We could also see from this tracking data that the vessel operated in particular
 
 <img width="1835" height="985" alt="image" src="https://github.com/user-attachments/assets/c9cbea4a-3698-4cf1-be61-e6defed42b1f" /><br>
 
-We could also use data from Marine Traffic, Global Fishing Watch and simialr services to get a better understanding of the moverments of these vessels. This allowed us to estimate the length of the longlines it was using, and the periods of the day a vessel was setting and collecting its lines.<br><br>
+We could also use data from Marine Traffic, Global Fishing Watch and similar services to get a better understanding of the moverments of these vessels. This allowed us to estimate the length of the longlines it was using, and the periods of the day a vessel was setting and collecting its lines.<br><br>
 <img width="1643" height="497" alt="unnamed" src="https://github.com/user-attachments/assets/16faa724-ca6e-4aa3-b9aa-afe067c08445" /><br><br>
 <img width="1851" height="531" alt="image" src="https://github.com/user-attachments/assets/435ef064-032c-4d96-aa94-4159106db395" /><br><br>
 
@@ -76,6 +76,7 @@ The WCPFC almost makes bycatch data available. This data is severely disadvantag
 <br><div align="center"><img width="687" alt="image" src="https://github.com/user-attachments/assets/1e03937d-8bf5-4a5f-8954-b2965f92633a"  /></div><br>
 
 <br><br><br><br>
+****
 ## Other visualisations
 ![Screenshot 2025-08-30 123852](https://github.com/user-attachments/assets/445e2bed-8653-45a9-ae8b-85eef470cb58)
 ![Screenshot 2025-08-30 123029](https://github.com/user-attachments/assets/a2703bfd-f75c-4f1b-ae00-21e267a6845a)
