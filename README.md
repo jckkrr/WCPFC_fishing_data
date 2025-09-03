@@ -4,7 +4,7 @@
 
 <b>Catches of the near-threatened Blue Shark have doubled in less than a decade, reaching almost 50,000,000 kgs in 2023, Greenpeace's analysis of recent and historical fishing data for the Western and Central Pacific region found.</b>
 
-For: Greenpeace; Sydney Morning Herald | 2025 
+For: Greenpeace Australia Pacific; Greenpeace International; Sydney Morning Herald | 2025 
 
 In an exclusive analysis of longitudinal, multi-jurisdictional fishing data for Greenpeace and the Sydney Morning Herald, I showed how EU-flagged, Spanish-operated longliners were a key driver of the issue. Despite targeting swordfish, 70 per cent of this fleet's catch was Blue Shark in 2023. While Taiwan and Japan catch more of the species, longliners from the EU are catching this bycatch species at such a disproportionate rate that these fleet of just seven vessels had the third biggest catch of Blue Sharks across the region, even ahead of China.
 
