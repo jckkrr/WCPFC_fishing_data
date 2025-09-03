@@ -61,31 +61,36 @@ This was particulary significant because our analysis of historical data from Ma
 
 We could also see from this tracking data that the vessel operated in particular patch of the Tasman Sea, just beyond the borders of the New Zealand Exclusive Economic Zone. Indeed, analysis of fishing data for 2024 from Global Fishing Watch showed that there was an unoffical demarcation of the High Seas area between Australia and New Zealand, with certain areas used almost exclusively by fleets operating under particualr flags. The Japanese, coloured blue in the below map, tended to operate in the far north and south of that region. Taiwan (green) tended to stay in the middle. Spain is shown in pink. China had no presence in the region in 2024, but was very active in the South Fiji Basin, and in other years has operated in the High Seas between Lord Howe Island, Norfolk Island and New Caledonia.
 
-<img width="1835" height="985" alt="image" src="https://github.com/user-attachments/assets/c9cbea4a-3698-4cf1-be61-e6defed42b1f" /><br><br>
+<img width="1835" height="985" alt="image" src="https://github.com/user-attachments/assets/c9cbea4a-3698-4cf1-be61-e6defed42b1f" /><br>
 
-We could also use data from Marine Traffic, Global Fishing Watch and similar services to get a better understanding of the moverments of these vessels. This allowed us to estimate the length of the longlines it was using, and the periods of the day a vessel was setting and collecting its lines. As the examples below, of two Taiwanese longliners, shows how histograms, using 8-hour bins, highlighted the trends in the data.<br><br>
+We could also use data from Marine Traffic, Global Fishing Watch and similar services to get a better understanding of the moverments of these vessels. This allowed us to estimate the length of the longlines it was using, and the periods of the day a vessel was setting and collecting its lines. As the examples below, of two Taiwanese longliners, shows how histograms, using 8-hour bins, highlighted the trends in the data.<br>
 
-<img width="1626" height="817" alt="image(4)" src="https://github.com/user-attachments/assets/aca34c40-f8cc-449c-87a8-88c5a27fa1ec" /><br><br>
+<img width="1626" height="817" alt="image(4)" src="https://github.com/user-attachments/assets/aca34c40-f8cc-449c-87a8-88c5a27fa1ec" /><br>
 
 The data on Marine Traffic could also be used to understand - or at least to guesstimate - the length of the gear that individual ships were using, and their patterns of setting and collecting.<br><br> 
-<img width="1851" height="531" alt="image" src="https://github.com/user-attachments/assets/435ef064-032c-4d96-aa94-4159106db395" /><br><br>
+<img width="1851" height="531" alt="image" src="https://github.com/user-attachments/assets/435ef064-032c-4d96-aa94-4159106db395" /><br><br><br>
 
-<br><br>
 <i>Bycatch data</i>
 <br>
 
 The WCPFC almost makes bycatch data available. This data is severely disadvantaged by the relaitve scarcity of data it contains: the data is collected by independent observers that occassionally travel on these vessels. Therefore, the numbers in this data are a fraction of those found in the Annual Catch Estimates data. However, the data is more granular when it comes to location of catches (based on 5x5 coordiante grids), and it also includes non-fish species (such as birds and turtles). This allowed us to see that the Tasman Sea is a hotspot for sea birds being caught by longliners. (Sea birds are caught on the hooks when they dive into water to catch a fish, and instead take the bait.) 
 
-<br><div align="center"><img width="687" alt="image" src="https://github.com/user-attachments/assets/1e03937d-8bf5-4a5f-8954-b2965f92633a"  /></div><br>
+<br><div align="center"><img width="768" height="652" alt="image(3)" src="https://github.com/user-attachments/assets/dd17f682-40d5-4b09-9016-fb7bb40e0e8c" /></div><br>
+
+This bycatch data was an important comparison point to data we collected in the field when observing one of the Spanish vessels. We observed this on Rainbow Warrior, with spotters watching the line and haul, and calling out each time a hook or buoy was brought up,  what was or was not on it, and if the catch was released or brought on board. (No sharks were released.) Our data, although just a small window into activity in the fishery, raises serious questions about the the accuracy of the official observer data, given how vastly different they are. It was also notable that the number of sharks brought in vastly outnumbered the very few target species like swordfish brought in. This in-field research helped us to get a more defined picture of the industrial fishing practices happening on the High Seas. 
+
+<br><img width="1484" height="826" alt="image(5)" src="https://github.com/user-attachments/assets/dac82890-3b91-4711-90cf-b7f2042f9351" />
 
 <br><br><br><br>
 ****
 ## Other visualisations
-![Screenshot 2025-08-30 123852](https://github.com/user-attachments/assets/445e2bed-8653-45a9-ae8b-85eef470cb58)
-![Screenshot 2025-08-30 123029](https://github.com/user-attachments/assets/a2703bfd-f75c-4f1b-ae00-21e267a6845a)
-![Screenshot 2025-08-30 122916](https://github.com/user-attachments/assets/96a5a907-3bbe-4b74-8016-e22e5e3c472d)
-![Screenshot 2025-08-30 123934](https://github.com/user-attachments/assets/87a52f09-87ff-436d-b20e-c88965d28ad6)
-<img width="1817" height="713" alt="image" src="https://github.com/user-attachments/assets/9e861bf5-f906-4a67-893f-faaadb096948" />
-<img width="1130" height="834" alt="unnamed" src="https://github.com/user-attachments/assets/049a7542-1183-4b95-933f-1eb3113141b3" />
+<br><br>![Screenshot 2025-08-30 123852](https://github.com/user-attachments/assets/445e2bed-8653-45a9-ae8b-85eef470cb58)
+<br><br>![Screenshot 2025-08-30 123029](https://github.com/user-attachments/assets/a2703bfd-f75c-4f1b-ae00-21e267a6845a)
+<br><br>![Screenshot 2025-08-30 122916](https://github.com/user-attachments/assets/96a5a907-3bbe-4b74-8016-e22e5e3c472d)
+<br><br>![Screenshot 2025-08-30 123934](https://github.com/user-attachments/assets/87a52f09-87ff-436d-b20e-c88965d28ad6)
+<br><br><img width="1817" height="713" alt="image" src="https://github.com/user-attachments/assets/9e861bf5-f906-4a67-893f-faaadb096948" />
+<br><br><img width="1130" height="834" alt="unnamed" src="https://github.com/user-attachments/assets/049a7542-1183-4b95-933f-1eb3113141b3" />
+<br><br><img width="1501" height="731" alt="image(6)" src="https://github.com/user-attachments/assets/21abfd29-5183-424d-8365-8864ae785bb2" />
+
 
 
