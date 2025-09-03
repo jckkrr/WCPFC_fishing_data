@@ -55,16 +55,19 @@ Signatories to the WCPFC convention typically provide annual reports to the Comm
 <br><br>
 The EU's report also included details of the individual longerliners operating in the region, and their hauls by spicies and zones. This helped us to get a clearer picture of their activity. For example, it showed that disproportionate bycatch was not restricted to rogue vessels, but was consistent across the EU fleet. It also showed the size of the hauls, which are roughly consistent with their storage capacity, as can be seen in shipping registration records. Furthermore, it showed that, for one vessel, almost 90 per cent of its catch was shark species, including the fleet's second highest proportion of catches of the endangered Short-Finned Mako.<br><br> 
  
-<img width="1313" height="786" alt="image" src="https://github.com/user-attachments/assets/5465caf7-505a-435f-99a5-87859c30b472" />
+<img width="1313" height="786" alt="image" src="https://github.com/user-attachments/assets/5465caf7-505a-435f-99a5-87859c30b472" /><br><br>
 
 This was particulary significant because our analysis of historical data from Marine Traffic showed that vessel was one of the EU fleet's most active in the region where our campaign was focussed. 
 
 We could also see from this tracking data that the vessel operated in particular patch of the Tasman Sea, just beyond the borders of the New Zealand Exclusive Economic Zone. Indeed, analysis of fishing data for 2024 from Global Fishing Watch showed that there was an unoffical demarcation of the High Seas area between Australia and New Zealand, with certain areas used almost exclusively by fleets operating under particualr flags. The Japanese, coloured blue in the below map, tended to operate in the far north and south of that region. Taiwan (green) tended to stay in the middle. Spain is shown in pink. China had no presence in the region in 2024, but was very active in the South Fiji Basin, and in other years has operated in the High Seas between Lord Howe Island, Norfolk Island and New Caledonia.
 
-<img width="1835" height="985" alt="image" src="https://github.com/user-attachments/assets/c9cbea4a-3698-4cf1-be61-e6defed42b1f" /><br>
+<img width="1835" height="985" alt="image" src="https://github.com/user-attachments/assets/c9cbea4a-3698-4cf1-be61-e6defed42b1f" /><br><br>
 
-We could also use data from Marine Traffic, Global Fishing Watch and similar services to get a better understanding of the moverments of these vessels. This allowed us to estimate the length of the longlines it was using, and the periods of the day a vessel was setting and collecting its lines.<br><br>
-<img width="1643" height="497" alt="unnamed" src="https://github.com/user-attachments/assets/16faa724-ca6e-4aa3-b9aa-afe067c08445" /><br><br>
+We could also use data from Marine Traffic, Global Fishing Watch and similar services to get a better understanding of the moverments of these vessels. This allowed us to estimate the length of the longlines it was using, and the periods of the day a vessel was setting and collecting its lines. As the examples below, of two Taiwanese longliners, shows how histograms, using 8-hour bins, highlighted the trends in the data.<br><br>
+
+<img width="1626" height="817" alt="image(4)" src="https://github.com/user-attachments/assets/aca34c40-f8cc-449c-87a8-88c5a27fa1ec" /><br><br>
+
+The data on Marine Traffic could also be used to understand - or at least to guesstimate - the length of the gear that individual ships were using, and their patterns of setting and collecting.<br><br> 
 <img width="1851" height="531" alt="image" src="https://github.com/user-attachments/assets/435ef064-032c-4d96-aa94-4159106db395" /><br><br>
 
 <br><br>
