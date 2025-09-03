@@ -2,7 +2,7 @@
 
 # Sharks caught at record levels by EU-flagged longline fishing vessels in the Pacific
 
-<b>Catches of the near-threatened Blue Shark have doubled in less than a decade, reaching almost 50,000,000 kgs in 2023, the latest data from the Western and Central Pacific region shows.</b>
+<b>Catches of the near-threatened Blue Shark have doubled in less than a decade, reaching almost 50,000,000 kgs in 2023, Greenpeace's analysis of recent and historical fishing data for the Western and Central Pacific region found.</b>
 
 For: Greenpeace; Sydney Morning Herald | 2025 
 
